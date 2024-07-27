@@ -1,0 +1,64 @@
+{
+    "id": "resume",
+    "name": "Sarat Chandra Motamarri",
+    "title": "DevOps Engineer",
+    "contact": {
+      "email": "csarat424@gmail.com",
+      "phone": "+14382289041"
+    },
+    "summary": "Aspiring DevOps engineer with 3+ years in customer service, skilled in Kubernetes, ArgoCD, AWS, Terraform, and Ansible, and passionate about continuous learning and technical writing.",
+    "experience": [
+      {
+        "company": "IKEA",
+        "position": "Customer Service Representative",
+        "startDate": "2019-11",
+        "endDate": "2022-05",
+        "description": "Achieved a 95% customer satisfaction rate through first-call resolution. Managed and updated 500+ customer profiles, demonstrating high accuracy in data entry."
+      },
+
+      {
+        "company": "Teleperformance",
+        "position": "Customer Service Representative",
+        "startDate": "2018-11",
+        "endDate": "2019-11",
+        "description": "Improved process efficiency by 50% through the effective use of CRM and external tools. Increased new customer applications by 25% each month, generating a 5% revenue increase."
+        }
+
+    ],
+    "education": [
+      {
+        "institution": "Montreal College of Information Technology",
+        "degree": "Post Graduate Diploma",
+        "field": "Computer Science - Web Application Development",
+        "graduationDate": "2020-11"
+      },
+
+      {
+        "institution": "Montreal College of Information Technology",
+        "degree": "Post Graduate Diploma",
+        "field": "Computer Science - Software Testing and Quality Assurance",
+        "graduationDate": "2019-11"
+      },
+
+      {
+        "institution": "Eastern Kentucky University",
+        "degree": "Master of Science",
+        "field": "Applied Engineering and Technology Management",
+        "graduationDate": "2016- 08"
+      }
+    ],
+
+    "skills": [
+    "Programming Languages: Python, Go, HTML, CSS, JavaScript, PHP, SQL",
+    "DevOps Tools: Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions",
+    "CI/CD: Jenkins, GitHub Actions",
+    "Configuration Management: Ansible",
+    "Scripting: Bash, Shell",
+    "Cloud Technologies: AWS (CloudFormation, S3, EC2, Lambda, VPC, CloudWatch)",
+    "Version Control: Git, GitHub",
+    "Monitoring: Prometheus, Grafana",
+    "Operating Systems: Linux (Ubuntu, CentOS)",
+    "Technical Blogs – Hashnode, Medium"
+
+    ]
+  }
